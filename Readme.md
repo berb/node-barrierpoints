@@ -8,7 +8,7 @@ Create a barrier object, with a required count of parties to wait for and option
 
 	var barrier = new Barrier(count, successCallback, abortCallback);
 
-Within each party code, you ''must'' either call `barrier.submit()` or `barrier.abort()` in order to signal the outcome.
+Within each party code, you *must* either call `barrier.submit()` or `barrier.abort()` in order to signal the outcome.
 
 For more examples, please have a look at the `examples/` directory.
 	
