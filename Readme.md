@@ -1,6 +1,6 @@
 # node-barrierpoints
 
-This library provides minimal controll flow based on barrier points, as known from other languages like Java for example (`java.util.concurrent.CountDownLatch` / `java.util.concurrent.CyclicBarrier`).
+This library provides minimal control flow based on barrier points, as known from other languages like Java for example (`java.util.concurrent.CountDownLatch` / `java.util.concurrent.CyclicBarrier`).
 
 ## Usage
 
