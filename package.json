@@ -1,0 +1,9 @@
+{
+	"name" : "barrierpoints",
+	"version" : "0.1.0",
+	"description" : "A barrier point implementation for node.js enabling easy control flow of parallel actions",
+	"url" : "http://cloudhead.io/cradle",
+	"keywords" : ["control flow", "parallel", "barrier", "barrier points"],
+	"author" : "Benjamin Erb",	
+	"main" : "./lib/barrierpoints"	 
+}
